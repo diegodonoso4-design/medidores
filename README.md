@@ -16,7 +16,7 @@ Examen final para el ramo de **Programación II**.
 ## Tecnologías Utilizadas
 
 * Lenguaje: Kotlin
-* UI Toolkit: Jetpack Compose (Material 3)
+* UI Toolkit: Jetpack Compose
 * Arquitectura: MVVM (Model-View-ViewModel)
 * Base de Datos: Android Room
 
