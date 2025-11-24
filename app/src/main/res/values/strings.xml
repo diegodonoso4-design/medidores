@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Medidores App</string>
+    <string name="titulo_registro">Registro de Medidor</string>
+    <string name="label_valor">Valor del medidor</string>
+    <string name="label_fecha">Fecha</string>
+    <string name="btn_guardar">Guardar Registro</string>
+</resources>

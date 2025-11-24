@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meters App</string>
+    <string name="titulo_registro">Meter Registration</string>
+    <string name="label_valor">Meter Value</string>
+    <string name="label_fecha">Date</string>
+    <string name="btn_guardar">Save Record</string>
+</resources>
